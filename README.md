@@ -14,4 +14,14 @@
 - 🌱 I’m currently learning and sharing on my [jiangsongyang-blog](https://jiangsongyang.github.io/) welcome~ 
 - 📁 掘金社区 : [大阿阳](https://juejin.cn/user/149189314752910)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jiangsongyang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangsongyang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<table>
+ <tr>
+   <td>
+     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jiangsongyang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+     </td>
+   <td>
+     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangsongyang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+     </td>
+  </tr>
+</table>
+
